@@ -1,0 +1,27 @@
+body {
+    background-color: #929292;
+}
+
+.containor {
+    h1 {
+        font-size: 80px !important;
+        font-weight: 900;
+    }
+
+    p {
+        font-size: 35px !important;
+    }
+
+    button {
+        font-size: 18px;
+        font-weight: 700;
+        color: black;
+        background-color: white;
+        transition: all 1s;
+
+    }
+    button:hover{
+        background-color: black;
+        color: white;
+    }
+}
